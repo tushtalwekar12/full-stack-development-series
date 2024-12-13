@@ -1,4 +1,4 @@
-# My JavaScript Learning Series
+# My JavaScript Learning Series -
 
 Welcome to my personal JavaScript learning series! This repository documents my journey as I learn JavaScript, from the basics to more advanced concepts. I aim to build a solid foundation in JavaScript and explore its applications in web development.
 
@@ -16,7 +16,7 @@ Welcome to my personal JavaScript learning series! This repository documents my 
 
 JavaScript is a powerful and versatile programming language that is essential for modern web development. Through this series, I will explore various topics, practice coding, and build projects to reinforce my understanding.
 
-## Goals
+## Goals 
 
 - Gain a solid understanding of JavaScript fundamentals.
 - Learn how to manipulate the DOM and create interactive web applications.
